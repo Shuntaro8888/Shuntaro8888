@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuntaro8888
-- 👀 I’m interested in freedom
+- 👀 I like freedom. 
 - 🌱 I’m currently learning Backend development(Ruby & Rails)
 - ⚡ Fun fact: I was in Vancouver(Canada) for a year recently!
 
