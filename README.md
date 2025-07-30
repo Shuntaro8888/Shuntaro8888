@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend development(Ruby & Rails)
 - ⚡ Fun fact: I was in Vancouver(Canada) for a year recently!
 
-- I'm gonna do a commit everyday from today(2025/07/08)
+- I'm gonna do a commit everyday from today(2025/07/30)
 (even single commit was pretty small ^^)
 - Sometimes I couldn't do that but I'm keep going(2025/07/19)
 <!---
