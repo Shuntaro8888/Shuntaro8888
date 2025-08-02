@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuntaro8888
-- 👀 I like freedom. I like workout.
+- 👀 I like freedom. I like mustle training.
 - 🌱 I’m currently learning Backend development(Ruby on Rails)
 - ⚡ Fun fact: I was in Vancouver(Canada) for a year recently!
 
