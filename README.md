@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Shuntaro8888
-- 👀 I like freedom. I like mustle training.
-- 🌱 I’m currently learning Backend development(Ruby on Rails)
-- ⚡ Fun fact: I was in Vancouver(Canada) for a year recently!
+# 👋 Hi, I’m Shuntaro.
+- 👀 I like muscle training, watching movies, reading books.
+- ⚡ Fun fact: I was in Vancouver for a year recently! (So can speak English a bit👀)
 
-- I'm gonna do a commit everyday(2025/06)
-(even single commit was pretty small ^^)
-- Sometimes I couldn't do that but I'm keep going(2025/07/19)
-- I speak Japanese(native) and English a little bit.
+## 🛠 Tech Stack (currently learning)
+<!-- アイコンは shields.io や simpleicons.org を利用 -->
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-0A97F0?style=for-the-badge&logo=linux&logoColor=white)
+
+## 🚀 Projects
+
+## 📫 Contact
+
+
 <!---
 Shuntaro8888/Shuntaro8888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
