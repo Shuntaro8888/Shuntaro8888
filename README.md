@@ -12,7 +12,7 @@
 ## 🚀 Projects
 
 ## 📫 Contact
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryotaro-oguri-76986937b)
 
 <!---
 Shuntaro8888/Shuntaro8888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
