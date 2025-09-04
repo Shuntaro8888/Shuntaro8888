@@ -21,7 +21,7 @@
 - 基本情報技術者
 - Toeic L&R Score:915 (2025/03)
 
-### 🏫 University (B.S, 2016~2020)
+### 🏫 University (Bachelor of Science, 2016~2020)
 - University of Fukui (natinal)
 - Mechanical System enginerring (Robotics course)
 
