@@ -9,6 +9,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-0A97F0?style=for-the-badge&logo=linux&logoColor=white)
 
+### 📚 Books & contents
+- Progate
+- Rail チュートリアル
+- プログラムはなぜ動くのか
+- コンピュータはなぜ動くのか
+- プロを目指すためのRuby入門
+- 現場で使える Ruby on Rails 5速習実践ガイド
+
+### ☑ Certification
+- 基本情報技術者
+- Toeic L&R Score:915 (2025/03)
+
 ## 🚀 Projects
 
 ## 📫 Contact
