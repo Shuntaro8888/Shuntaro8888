@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Shuntaro.
+# 👋 Hi, I’m Ryotaro.
 - 👀 I like muscle training, watching movies, reading books.
 - ⚡ Fun fact: I was in Vancouver for a year recently! (So can speak English a bit👀)
 
