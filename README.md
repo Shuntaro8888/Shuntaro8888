@@ -22,7 +22,7 @@
 - Toeic L&R Score:915 (2025/03)
 
 ## 🏫 University (Bachelor of Science, 2016~2020)
-- University of Fukui (natinal)
+- University of Fukui
 - Mechanical System enginerring (Robotics course)
 
 ## 🚀 Projects
