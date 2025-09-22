@@ -12,6 +12,7 @@
 ### 📚 Books & contents
 - Progate
 - Rail チュートリアル
+- JavaScript チュートリアル
 - プログラムはなぜ動くのか
 - コンピュータはなぜ動くのか
 - プロを目指すためのRuby入門
