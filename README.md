@@ -10,13 +10,15 @@
 ![WSL](https://img.shields.io/badge/WSL-0A97F0?style=for-the-badge&logo=linux&logoColor=white)
 
 ### 📚 Books & contents
-- Progate
-- Rail チュートリアル
-- JavaScript チュートリアル
-- プログラムはなぜ動くのか
-- コンピュータはなぜ動くのか
-- プロを目指すためのRuby入門
-- 現場で使える Ruby on Rails 5速習実践ガイド
+- Rubyチュートリアル（Progate）
+- Rails チュートリアル（https://railstutorial.jp/chapters/beginning?version=7.0）
+- JavaScript チュートリアル（https://railstutorial.jp/javascript/hello_world）
+- MySQL チュートリアル (https://dev.mysql.com/doc/refman/9.4/en/tutorial.html）
+- React入門（Udemy）
+- プログラムはなぜ動くのか 📚
+- コンピュータはなぜ動くのか 📚
+- プロを目指すためのRuby入門 📚
+- 現場で使える Ruby on Rails 5速習実践ガイド 📚
 
 ## ☑ Certification
 - 基本情報技術者
