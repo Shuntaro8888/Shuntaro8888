@@ -8,6 +8,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![WSL](https://img.shields.io/badge/WSL-0A97F0?style=for-the-badge&logo=linux&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 📚 Books & contents
 - Rubyチュートリアル（Progate）
@@ -15,6 +17,7 @@
 - JavaScript チュートリアル（https://railstutorial.jp/javascript/hello_world）
 - MySQL チュートリアル (https://dev.mysql.com/doc/refman/9.4/en/tutorial.html）
 - React入門（Udemy）
+- Qt 6 Core Beginners with C++（Udemy）
 - プログラムはなぜ動くのか 📚
 - コンピュータはなぜ動くのか 📚
 
