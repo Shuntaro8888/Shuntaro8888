@@ -12,11 +12,12 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 📚 Books & contents
+- 独習C++
+- LPIC レベル1 スピードマスター問題集
 - Rails チュートリアル（https://railstutorial.jp/chapters/beginning?version=7.0）
 - JavaScript チュートリアル（https://railstutorial.jp/javascript/hello_world）
 - MySQL チュートリアル (https://dev.mysql.com/doc/refman/9.4/en/tutorial.html）
 - React入門（Udemy）
-- Qt 6 Core Beginners with C++（Udemy）
 - プログラムはなぜ動くのか 📚
 - コンピュータはなぜ動くのか 📚
 
